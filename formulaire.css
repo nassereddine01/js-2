@@ -1,0 +1,24 @@
+div{
+    border: 2px solid black ;
+    margin-right:5cm ;
+    margin-top: 5cm;
+    margin-left: 5cm;
+}
+h1{
+    margin-left: 2cm;
+}
+input{
+    text-align: center;
+    width: 90%;
+    margin-left:1.5cm ;    
+}
+#btn{
+    margin-left:5.3%;
+    background-color:rgba(7, 130, 192, 0.903);
+    height: 50px;
+    margin-bottom: 1cm;
+    color: white;
+    cursor: pointer;
+    font-size:18px ;
+    width: 90%;
+}
